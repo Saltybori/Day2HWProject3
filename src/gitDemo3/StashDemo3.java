@@ -9,6 +9,11 @@ public class StashDemo3 {
 		
 	}
 	
+	public void divide() {
+		
+		System.out.println(4/2);
+		
+	}
 	
 
 }
